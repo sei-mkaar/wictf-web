@@ -20,6 +20,8 @@ theme:
       toggle:
         icon: material/lightbulb-outline
         name: Switch to dark mode
+  logo: assets/flag.png      
+  favicon: assets/flag.svg
 edit_uri: ""
 copyright: Copyright &copy; 2022 Carnegie Mellon University
 extra:

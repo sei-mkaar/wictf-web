@@ -1,5 +1,5 @@
 site_name: WiCyS 2022 CTF
-site_url: https://foundry.local
+site_url: https://dev.wictf.com
 markdown_extensions:
   - attr_list
   - md_in_html

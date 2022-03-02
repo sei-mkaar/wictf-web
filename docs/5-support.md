@@ -1,6 +1,6 @@
 # Support
 
-## Practice Period (4th - 16th March)
+## Practice Period (7th - 16th March)
 
 * For issues with registration and login, send an email to: support@witcf.com.
 * For any other issues, reach out to us in [Support]() channel on chat. 

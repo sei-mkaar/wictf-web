@@ -3,8 +3,7 @@
 Below you will find some commonly asked questions and answers to help you with the CTF. If you can’t find the answer here, please contact us.
 
 1. _What does "Cumulative Time" on the leaderboard mean?_
-
-    The Cumulative Time column is only used for tiebreaking purposes. When a challenge is started, a timer tracks how long it takes to solve that challenge. The sum time of all successfully solved challenges is posted to the leaderboard under Cumulative Time. Again, this is for tiebreaking purposes only.
+The Cumulative Time column is only used for tiebreaking purposes. When a challenge is started, a timer tracks how long it takes to solve that challenge. The sum time of all successfully solved challenges is posted to the leaderboard under Cumulative Time. Again, this is for tiebreaking purposes only.
 
 2. _Will I need any special software or applications to participate in the CTF?_
     

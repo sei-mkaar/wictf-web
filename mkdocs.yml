@@ -12,7 +12,7 @@ nav:
   - registration.md
   - gameboard.md
   - support.md
-  - faq.md
+  - FAQ: 'faq.md'
   - materials.md
 theme:
   name: material

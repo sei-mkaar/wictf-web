@@ -10,9 +10,9 @@
 
 Welcome to the **[WiCyS 2022](https://www.wicys.org/events/wicys-2022/) Capture the Flag competition**. We're glad you joined us!
 
-!!! danger "Important Information"
+!!! help "Important Information"
 
-    Practice period will begin March 7. 
+    **Practice period will begin March 7. **
 
 
 ## Getting Started

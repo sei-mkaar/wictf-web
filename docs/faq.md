@@ -3,17 +3,17 @@
 Below you will find some commonly asked questions and answers to help you with the CTF. If you can’t find the answer here, please contact us.
 
 1. _What does "Cumulative Time" on the leaderboard mean?_
-The Cumulative Time column is only used for tiebreaking purposes. When a challenge is started, a timer tracks how long it takes to solve that challenge. The sum time of all successfully solved challenges is posted to the leaderboard under Cumulative Time. Again, this is for tiebreaking purposes only.
+
+The **Cumulative Time** column is only used for tiebreaking purposes. When a challenge is started, a timer tracks how long it takes to solve that challenge. The sum time of _all_ successfully solved challenges is posted to the leaderboard under Cumulative Time. Again, this is for tiebreaking purposes only.
 
 2. _Will I need any special software or applications to participate in the CTF?_
     
-    No. All that is needed is an up-to-date web browser on your laptop and a good internet connection. Supported browsers are: Chrome, Firefox, and Edge.
+No. All that you need is an up-to-date web browser on your laptop and a good internet connection. Supported browsers are Chrome, Firefox, and Edge.
 
 3. _How are ties handled?_
 
-    In the event of a tiebreaker, the "Cumulative Time" figure will be used to determine the winners. The Cumulative Time is the total time spent in challenges successfully solved. This is calculated using a timer specific to each challenge on your game board. When you start a challenge, the timer starts. When you successfully solve a challenge, your score and cumulative time are updated. Please note -
-    Your challenge timer does not stop if you "delete" a challenge space or go work on another challenge. If you start a challenge, then start and work on another challenge, and return to your previous challenge, your challenge timer is still running. 
-    Time spent in challenges failed, or challenges started and not finished, does not count towards your cumulative score. You won't be penalized for trying!
+In the event of a tiebreaker, **Cumulative Time** will be used to determine the winners. The Cumulative Time is the total time spent in challenges successfully solved. This is calculated using a timer specific to each challenge on your game board. When you start a challenge, the timer starts. When you successfully solve a challenge, your score and cumulative time are updated. 
+> Please note: Your challenge timer does not stop if you "delete" a challenge space or go work on another challenge. If you: start a challenge then start and work on another challenge and _then_ return to your previous challenge--your challenge timer is still running. Time spent in challenges failed, or challenges started and not completed, does not count towards your cumulative score. You won't be penalized for trying!
 
 4. _One of my team members dropped out. Can I replace them with someone else?_
 

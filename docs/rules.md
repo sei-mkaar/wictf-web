@@ -1,5 +1,7 @@
 # Rules
 
+These are the rules of the competition. Please read them carefully.
+
 ## Team Composition
 
 WiCyS 2022 CTF is a team event. 

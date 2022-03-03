@@ -35,7 +35,7 @@ theme:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
   logo: assets/flag.png      
-  favicon: assets/flag.svg
+  favicon: assets/flag.png
 edit_uri: ""
 copyright: Copyright &copy; 2022 Carnegie Mellon University
 extra:

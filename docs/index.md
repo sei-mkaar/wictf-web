@@ -12,6 +12,6 @@ Review all of the links on the left navigation. Pay close attention to the rules
 
 [Gameboard :material-flag-outline:](https://wictf.com/gameboard/home){ .md-button .md-button--primary }&nbsp;&nbsp;[Chat :material-chat-outline:](https://wictf.com/chat){ .md-button .md-button--primary }
 
-Good luck!
+Best of luck to you!
 
 ![CMU SEI Unitmark](assets/cmu-sei-unitmark.png){: style="width:500px;margin:50px 0px 0px"}

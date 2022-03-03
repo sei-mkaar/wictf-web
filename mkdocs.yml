@@ -3,6 +3,10 @@ site_url: https://dev.wictf.com
 markdown_extensions:
   - attr_list
   - md_in_html
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+
 theme:
   name: material
   palette:

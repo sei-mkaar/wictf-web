@@ -19,8 +19,8 @@ Welcome to the **[WiCyS 2022](https://www.wicys.org/events/wicys-2022/) Capture 
 
 Review all the links on the left navigation. When ready, click below to access the gameboard and chat.
 
-* [Practice Gameboard](https://dev.wictf.com/gameboard/home) 
-* [Chat]()
+* [Practice Gameboard](https://wictf.com/gameboard/home) 
+* [Chat](https://wictf.com/chat)
 
 Good Luck!
 

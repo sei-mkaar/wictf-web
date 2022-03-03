@@ -1,6 +1,6 @@
 # WiCyS 2022 CTF
 
-![WiCyS Logo](assets/NEWWiCySLogo.png){ width=300 }
+![WiCyS Logo](assets/NEWWiCySLogo.png){ width=400 }
 
 Welcome to the **[WiCyS 2022](https://www.wicys.org/events/wicys-2022/) Capture the Flag competition**. We're glad you joined us!
 

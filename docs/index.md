@@ -10,6 +10,14 @@
 
 Welcome to the **[WiCyS 2022](https://www.wicys.org/events/wicys-2022/) Capture the Flag competition**. We're glad you joined us!
 
+!!! success Important Information!!
+
+    Lorem ipsum dolor sit amet, consectetur
+    adipiscing elit. Nulla et euismod nulla.
+    Curabitur feugiat, tortor non consequat
+    finibus, justo purus auctor massa, nec
+    semper lorem quam in massa.
+
 
 ## Getting Started
 

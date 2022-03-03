@@ -10,6 +10,7 @@ WiCyS 2022 CTF is a team event.
 2. Participants can compete on **one team only**. 
 3. Participants cannot change teams during the CTF.
 4. Once a team is locked during registration, it cannot be changed later.
+>**Reminder:** A team is lockedwhen the CTF gameboard is launched.
 
 ## Conduct
 

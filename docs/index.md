@@ -10,17 +10,12 @@
 
 Welcome to the **[WiCyS 2022](https://www.wicys.org/events/wicys-2022/) Capture the Flag competition**. We're glad you joined us!
 
-!!! note
-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.
 
 ## Getting Started
 
 Review all the links on the left navigation. When ready, click below to access the gameboard and chat.
 
-* [Practice Gameboard](https://dev.wictf.com/gameboard/home)
+* [Practice Gameboard](https://dev.wictf.com/gameboard/home) (**Practice period starts 7 March**)
 * [Chat]()
 
 Good Luck!

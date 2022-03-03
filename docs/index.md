@@ -1,11 +1,3 @@
-<img src="assets/NEWWiCySLogo.png" width="300" height="150" style="float:left"/><br><img src="assets/cmu-sei-unitmark.png" width="450" height="60" style="text-align:center;float:right"/>
-
-<br>
-<br>
-<br>
-<br>
-<br>
-
 # WiCyS 2022 CTF
 
 ![WiCyS Logo](assets/NEWWiCySLogo.png){ align=right width=300 }
@@ -23,3 +15,5 @@ Review all the links on the left navigation. When ready, click below to access t
 [Practice Gameboard :material-flag-outline:](https://wictf.com/gameboard/home){ .md-button .md-button--primary }&nbsp;&nbsp;[Chat :material-chat-outline:](https://wictf.com/chat){ .md-button .md-button--primary }
 
 Good Luck!
+
+![CMU SEI Unitmark](assets/cmu-sei-unitmark.png){: style="width:400px;margin:40px 0px 0px"}

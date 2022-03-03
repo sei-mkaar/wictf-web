@@ -23,7 +23,7 @@ theme:
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       primary: purple
-      accent: amber
+      accent: light green
       toggle:
         icon: material/lightbulb
         name: Switch to light mode
@@ -36,18 +36,13 @@ theme:
         name: Switch to dark mode
   logo: assets/flag.png      
   favicon: assets/flag.svg
-  features:
-    - navigation.tabs
 edit_uri: ""
 copyright: Copyright &copy; 2022 Carnegie Mellon University
 extra:
   social:
-    - icon: fontawesome/brands/github
-      link: https://github.com/cmu-sei
-    - icon: fontawesome/brands/docker
-      link: https://hub.docker.com/u/cmusei
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/sei_cmu
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/company/software-engineering-institute/
-
+    - icon: fontawesome/brands/github
+      link: https://github.com/cmu-sei

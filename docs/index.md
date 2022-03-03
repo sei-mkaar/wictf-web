@@ -1,4 +1,4 @@
-![WiCyS Logo](assets/NEWWiCySLogo.png){ width=400 }
+![WiCyS Logo](assets/NEWWiCySLogo-transparentbg.png){ width=400 }
 
 # WiCyS 2022 Capture The Flag (CTF)
 

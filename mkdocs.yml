@@ -19,7 +19,7 @@ theme:
   palette:
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: deep purple
+      primary: purple
       accent: amber
       toggle:
         icon: material/lightbulb

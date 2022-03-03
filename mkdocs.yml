@@ -25,14 +25,14 @@ theme:
       primary: purple
       accent: green
       toggle:
-        icon: material/lightbulb
+        icon: material/toggle-switch
         name: Switch to light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
       primary: blue
       accent: pink
       toggle:
-        icon: material/lightbulb-outline
+        icon: material/toggle-switch-off-outline
         name: Switch to dark mode
   logo: assets/flag.png      
   favicon: assets/flag.svg

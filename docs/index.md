@@ -1,4 +1,4 @@
-# WiCyS 2022 CTF
+# Home
 
 ![WiCyS Logo](assets/NEWWiCySLogo.png){ width=400 }
 

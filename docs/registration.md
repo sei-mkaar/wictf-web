@@ -1,9 +1,12 @@
-# Registration 
+# Registration
+
+Follow the instructions below to register, enroll, create a team, and join a team for this year's WiCyS 2022 CTF competition.
 
 ## Registering and Enrolling
+
 1. Go to [wictf.com](https://wictf.com).
 2. Select **Gameboard**, then **Login**.
-3. 4. At the Notice screen, click **Continue**.
+3. At the Notice screen, click **Continue**.
 5. Click **Register for an account**. Enter the email address you used for WiCyS conference registration.
 6. Click **Send Verification Code**. A code is sent to the email address you provided.
 7. Enter the code and click **Confirm**.

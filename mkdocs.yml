@@ -6,7 +6,13 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
-
+nav:
+  - rules.md
+  - registration.md
+  - gameboard.md
+  - support.md
+  - faq.md
+  - materials.md
 theme:
   name: material
   palette:

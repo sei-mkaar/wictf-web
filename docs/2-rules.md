@@ -4,7 +4,7 @@
 
 WiCyS 2022 CTF is a team event. 
 
-1. Team of 2 to 5 members is allowed to participate in the CTF.
+1. Team of 2 to 4 members is allowed to participate in the CTF.
 2. Participants can only be on one team and cannot change teams during the CTF.
 3. Once a team is locked during registration, it can NOT be changed later.
 

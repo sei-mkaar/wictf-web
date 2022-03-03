@@ -6,7 +6,7 @@ Welcome to the **[WiCyS 2022](https://www.wicys.org/events/wicys-2022/) Capture 
 
 !!! help "Important Information"
 
-    **The practice period will begin **March 7**. **
+    The practice period will begin **March 7**.
 
 
 ## Getting Started

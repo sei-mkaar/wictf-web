@@ -22,5 +22,7 @@ Review all the links on the left navigation. When ready, click below to access t
 * [Practice Gameboard](https://wictf.com/gameboard/home) 
 * [Chat](https://wictf.com/chat)
 
+[Practice Gameboard :fontawesome-solid-flag:](https://wictf.com/gameboard/home){ .md-button .md-button--primary }&nbsp;&nbsp;[Chat :material-chat-outline:](https://wictf.com/chat){ .md-button }
+
 Good Luck!
 

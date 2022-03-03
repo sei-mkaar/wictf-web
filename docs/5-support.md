@@ -1,12 +1,12 @@
 # Support
 
-## Practice Period (7th - 16th March)
+## Practice Period (7 - 17 March)
 
-* For issues with registration and login, send an email to: support@witcf.com.
+* For issues with registration and login, send an email to: witcf-support@sei.cmu.edu.
 * For any other issues, reach out to us in [Support]() channel on chat. 
 * For challenge related issues, please include as much detail as possible including the specific challenge title, challenge Support Code, any system element(s) involved, and any error messages you may have received.
 * Support Hours - Mon - Fri, 9AM - 5PM ET.
 
-## CTF (17th and 18th March)
+## CTF (17 - 18 March)
 
 * In person support will be available. More to come here. 

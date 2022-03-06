@@ -25,7 +25,7 @@ Create a team by requesting a custom display name and generating an invitation l
 
 ## Creating a Team
 
-1. Enroll in the Team Competition.
+1. Enroll in the **CTF**.
 2. Under **Enrollment**, request a new display name for the scoreboard.
 3. Click **Update**.
 4. To invite other members to join your new team, click **Generate** to generate a new Invitation Code.

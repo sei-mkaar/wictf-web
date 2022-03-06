@@ -21,7 +21,7 @@ Below you will find some commonly asked questions and answers to help you with t
 
 5. _When does registration for the CTF start?_
 
-    Registration opens on Thursday, March 4, 2022 and will remain open until the end of the CTF (March 19, 2022).
+    Registration opens the week of March 7, 2022 and will remain open until the end of the CTF (March 19, 2022).
 
 6. _Can I participate on more than one team at a time?_
 
@@ -29,7 +29,7 @@ Below you will find some commonly asked questions and answers to help you with t
 
 7. _What if I can't access my email when I'm out of the office?_
 
-    To use multi-factor authentication without access to email, visit your [identity profile](https://foundry.local/identity/ui/profile) and select **Configure 2FA**. You will need to be logged in for this, so make sure you complete this while you do have access to email. There you can generate a Time-based One Time Password (TOTP) secret key. Use this secret key with any totp-enabled authentication app, such as Duo Mobile or Google Authenticator, by simply scanning the barcode. If you don't have access to your device, copy down the secret key and add it into the TOTP app on your device later.
+    To use multi-factor authentication without access to email, visit your [identity profile](https://wictf.com/identity/ui/profile) and select **Configure 2FA**. You will need to be logged in for this, so make sure you complete this while you do have access to email. There you can generate a Time-based One Time Password (TOTP) secret key. Use this secret key with any totp-enabled authentication app, such as Duo Mobile or Google Authenticator, by simply scanning the barcode. If you don't have access to your device, copy down the secret key and add it into the TOTP app on your device later.
 
 8. _Can I copy/paste between my host and the gamespace virtual machines?_
 

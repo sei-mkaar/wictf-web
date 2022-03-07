@@ -6,11 +6,8 @@ Welcome to the **[WiCyS 2022](https://www.wicys.org/events/wicys-2022/) Capture 
 
 !!! help "Important Information"
 
-    Registration is now open! Practice session is live!
-
-    Please note the following two changes since the webinar - 
-    * Your account has already been created using the email address you used for WiCyS conference registration. Use "Reset my password" link on the Login page to reset the password. 
-    * Only students are eligible to participate in the CTF.
+    Registration and practice session are NOT live yet. Please check back later today (March 7) for more updates.
+    
 
 Review all of the links on the left navigation. Pay close attention to the rules and FAQs related to cumulative time and tiebreakers.  When you're ready to compete, select the icons below to access the gameboard and chat.
 

@@ -11,7 +11,7 @@ Welcome to the **[WiCyS 2022](https://www.wicys.org/events/wicys-2022/) Capture 
 
     Please note these two changes since the **March 3, 2022 CTF Prep** webinar: <br>
     1. Your account has already been created using the email address you provided during WiCyS conference registration. Please reset the password for your account (at the Login screen, click **Reset my password**). <br>
-    2. Only students are eligible to participate in the WiCyS 2022 Capture the Flag competition.
+    2. Only students are eligible to participate in the WiCyS 2022 Capture the Flag competition. (During the webinar, it was mentioned by mistake that all attendees can participate in the CTF.)
     
 Review all of the links on the left navigation. Pay close attention to the rules and FAQs related to cumulative time and tiebreakers.  When you're ready to compete, select the icons below to access the gameboard and chat.
 

@@ -1,6 +1,6 @@
 # Rules
 
-Please read and understand the rules of the WiCyS CTF competition before registering and starting any challenges. If you have questions about the rules, please contact CTF support at: wictf-support@sei.cmu.edu.
+Please read and understand the rules of the WiCyS CTF competition before registering and starting any challenges. If you have questions about the rules, please contact CTF support at: [wictf-support@sei.cmu.edu](mailto:wictf-support@sei.cmu.edu).
 
 ## Team Composition
 

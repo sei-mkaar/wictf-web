@@ -4,7 +4,7 @@
 
 **March 7, 2022 - March 17, 2022**
 
-For issues with registration and login, please send an email to: [wictf-support@sei.cmu.edu]().
+For issues with registration and login, please send an email to: [wictf-support@sei.cmu.edu](mailto:wictf-support@sei.cmu.edu).
 
 For any other issues, please contact us via the [Support](https://wictf.com/chat/wictf-2022/channels/support) channel on chat. 
 

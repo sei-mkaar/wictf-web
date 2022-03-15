@@ -16,12 +16,12 @@ For challenge-related issues, provide as much detail as possible including the s
 
 In-person support will be available during the following times - 
 
-**March 17, 2022**
-* 12:30PM - 6:30PM ET
+**March 17, 2022** <br>
+12:30PM - 6:30PM ET
 
-**March 18, 2022**
-* 9:45AM - 11:45AM ET
-* 1:55PM - 5:30PM ET
-* 8:30PM - 11:55PM ET (After Dark Party)
+**March 18, 2022** <br>
+9:45AM - 11:45AM ET <br>
+1:55PM - 5:30PM ET <br>
+8:30PM - 11:55PM ET (After Dark Party)
 
 

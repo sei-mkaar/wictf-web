@@ -14,6 +14,12 @@ For challenge-related issues, provide as much detail as possible including the s
 
 ## CTF 
 
-**March 17, 2022 and March 18, 2022**
+In-person support will be available during the following times - 
 
-In-person support will be available during the live competition. More to details to come.
+**March 17, 2022**
+* 12:30PM - 6:30PM ET
+
+**March 18, 2022**
+* 9:45AM - 11:45AM
+* 1:55PM - 5:30PM
+* 8:30PM - 11:55PM (After Dark Party)

@@ -35,7 +35,7 @@ Below you will find some commonly asked questions and answers to help you with t
 
     Yes. The cog icon in the upper-left corner of the virtual machine console allows you to move text bidirectionally between your host and that virtual machine.
 
-9. _If I reach my limit of two virtual gamespaces, can I move on to another challenge?_
+9. _If I reach my limit of four virtual gamespaces, can I move on to another challenge?_
 
     Yes. If you start a challenge but would like to move on to another challenge without finishing it, you can **DELETE** that gamespace. However, the challenge timer will not stop. When you return to this challenge, you can **RESTART** the gamespace in its original state.
 

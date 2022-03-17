@@ -10,6 +10,6 @@ Review all of the links on the left navigation. Pay close attention to the rules
 
 Best of luck to you!
 
-<div class="addthis_inline_share_toolbox"></div>
+<div style="margin:50px 0px 0px" class="addthis_inline_share_toolbox"></div>
 
 ![CMU SEI Unitmark](assets/cmu-sei-unitmark.png){: style="width:500px;margin:50px 0px 0px"}

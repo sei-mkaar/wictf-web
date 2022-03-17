@@ -1,5 +1,6 @@
 site_name: WiCyS 2022 CTF
 site_url: https://wictf.com
+site_description: Join the WiCyS 2022 Capture the Flag (CTF) competition and test your skills against challenges from CISA's President's Cup Cybersecurity Competition.
 markdown_extensions:
   - def_list
   - attr_list

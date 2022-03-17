@@ -50,4 +50,8 @@ Below you will find some commonly asked questions and answers to help you with t
 
 12. _CTF Support is asking for my challenge **Support Code**. Where can I find it?_ 
 
-    The challenge Support Code can be found in the lower-right corner of the challenge pane. The Support Code looks similar to this: a347c5c6 a00.
+    The challenge Support Code can be found in the lower-right corner of the challenge pane. The Support Code looks similar to this: `a347c5c6 a00`.
+
+13. I am interested in the platform used to run this CTF. Where can I learn more about it?
+
+    The _WiCyS 2022 CTF_ uses open source software from the [Software Engineering Institute](https://sei.cmu.edu) at Carnegie Mellon University to develop, deploy and manage the competition.  Specifically, the [**Foundry Appliance**](https://github.com/cmu-sei/foundry-appliance)&mdash;a ready-to-use, competition virtual appliance &mdash;was used to quickly deploy the apps for this event.

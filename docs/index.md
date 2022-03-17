@@ -6,6 +6,12 @@ Welcome to the **[WiCyS 2022](https://www.wicys.org/events/wicys-2022/) Capture 
 
 Review all of the links on the left navigation. Pay close attention to the rules and FAQs related to cumulative time and tiebreakers.  When you're ready to compete, select the icons below to access the gameboard and chat.
 
+!!! help "Competition Update (March 17 @ 1247 EDT)"
+
+    **Join the chat server!**
+
+    We will provide competition updates in the [Town Square channel](https://wictf.com/chat/wictf-2022/channels/town-square) throughout the competition.
+
 [Gameboard :material-flag-outline:](https://wictf.com/gameboard/home){ .md-button .md-button--primary }&nbsp;&nbsp;[Chat :material-chat-outline:](https://wictf.com/chat){ .md-button .md-button--primary }
 
 Best of luck to you!

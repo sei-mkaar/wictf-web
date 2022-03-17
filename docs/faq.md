@@ -54,4 +54,4 @@ Below you will find some commonly asked questions and answers to help you with t
 
 13. I am interested in the platform used to run this CTF. Where can I learn more about it?
 
-    The _WiCyS 2022 CTF_ uses open source software from the [Software Engineering Institute](https://sei.cmu.edu) at Carnegie Mellon University to develop, deploy and manage the competition.  Specifically, the [**Foundry Appliance**](https://github.com/cmu-sei/foundry-appliance)&mdash;a ready-to-use, competition virtual appliance &mdash;was used to quickly deploy the apps for this event.
+    The _WiCyS 2022 CTF_ uses open source software from the [Software Engineering Institute](https://sei.cmu.edu) at Carnegie Mellon University to develop, deploy and manage the competition.  Specifically, the [**Foundry Appliance**](https://github.com/cmu-sei/foundry-appliance)&mdash;a ready-to-use, competition virtual appliance&mdash;was used to quickly deploy the apps for this event.

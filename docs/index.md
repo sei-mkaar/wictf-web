@@ -22,6 +22,7 @@ Best of luck to you!
 <a class="a2a_button_facebook"></a>
 <a class="a2a_button_linkedin"></a>
 </div>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
 
 ![CMU SEI Unitmark](assets/cmu-sei-unitmark.png){: style="width:500px;margin:50px 0px 0px"}
 

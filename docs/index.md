@@ -46,15 +46,15 @@ See below for the results of this year's competition. You can also download [**S
 |32|player_499cc244|300|
 |33|KAS|300|
 |34|CTFplayer2022|300|
-|37|player_5395b19a|300|
-|38|Phantom_Troupe_2.0|300|
-|39|Technophiles|300|
-|40|thecybergirls|240|
-|41|player_106abea3|90|
-|42|cool_kids_club|90|
-|43|player_40d5ea9d|90|
-|44|Hamiltonian|90|
-|45|Foram Shah|90|
+|35|player_5395b19a|300|
+|36|Phantom_Troupe_2.0|300|
+|37|Technophiles|300|
+|38|thecybergirls|240|
+|39|player_106abea3|90|
+|40|cool_kids_club|90|
+|41|player_40d5ea9d|90|
+|42|Hamiltonian|90|
+|43|Foram Shah|90|
 
 ## Social Media
 

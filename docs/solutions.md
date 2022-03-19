@@ -4,7 +4,7 @@ Here are the solution guides for each WiCyS 2022 CTF challenge.
 
 !!! important "Important"
 
-    Please download the guides to your local system, since we will be removing this site after a few days.
+    Please download the guides to your local system, since we will be removing this site in a few days.
 
 | # | Guide | Points |
 |---|------|-------|

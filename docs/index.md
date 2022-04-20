@@ -6,8 +6,6 @@
 
 _Thank you_ for playing in the **[WiCyS 2022](https://www.wicys.org/events/wicys-2022/) Capture the Flag competition**. We're so glad you joined us!
 
-See below for the results of this year's competition. You can also download [**Solution Guides**](/solutions) for each challenge (please ***download*** the files as this site will be removed in a few days.)
-
 ## Final Leaderboard
 
 |Rank|Team|Score|
